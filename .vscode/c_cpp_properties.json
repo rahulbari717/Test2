@@ -32,7 +32,7 @@
                 "databaseFilename": ""
             },
             "intelliSenseMode": "gcc-x64",
-            "compilerPath": "/opt/esp/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++"
+            "compilerPath": "${config:idf.toolsPath}/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc"
         }
     ],
     "version": 4

@@ -1,5 +1,18 @@
 {
+    "C_Cpp.intelliSenseEngine": "default",
     "idf.adapterTargetName": "esp32",
     "idf.flashType": "UART",
-    "idf.port": "/dev/ttyUSB0"
+    "idf.port": "/dev/ttyUSB0",
+    "idf.espIdfPath": "/home/lenovo/Esp/esp-idf",
+    "idf.pythonBinPath": "/home/lenovo/Esp/esp-idf/tools/python_env/idf5.2_py3.10_env/bin/python",
+    "idf.toolsPath": "/home/lenovo/Esp/esp-idf/tools",
+    "idf.customExtraPaths": "/home/lenovo/Esp/esp-idf/tools/tools/xtensa-esp-elf-gdb/12.1_20221002/xtensa-esp-elf-gdb/bin:/home/lenovo/Esp/esp-idf/tools/tools/riscv32-esp-elf-gdb/12.1_20221002/riscv32-esp-elf-gdb/bin:/home/lenovo/Esp/esp-idf/tools/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin:/home/lenovo/Esp/esp-idf/tools/tools/xtensa-esp32s2-elf/esp-12.2.0_20230208/xtensa-esp32s2-elf/bin:/home/lenovo/Esp/esp-idf/tools/tools/xtensa-esp32s3-elf/esp-12.2.0_20230208/xtensa-esp32s3-elf/bin:/home/lenovo/Esp/esp-idf/tools/tools/riscv32-esp-elf/esp-12.2.0_20230208/riscv32-esp-elf/bin:/home/lenovo/Esp/esp-idf/tools/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/home/lenovo/Esp/esp-idf/tools/tools/openocd-esp32/v0.12.0-esp32-20230419/openocd-esp32/bin:/home/lenovo/Esp/esp-idf/tools/tools/esp-rom-elfs/20230320",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/home/lenovo/Esp/esp-idf/tools/tools/openocd-esp32/v0.12.0-esp32-20230419/openocd-esp32/share/openocd/scripts",
+        "ESP_ROM_ELF_DIR": "/home/lenovo/Esp/esp-idf/tools/tools/esp-rom-elfs/20230320/"
+    },
+    "idf.gitPath": "git",
+    "files.associations": {
+        "calibrate.h": "c"
+    }
 }
